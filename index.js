@@ -29,16 +29,3 @@ return parseInt(a, 10)
 }
 
 
-function makeInt(n) {
-parseInt('n', 10)
-return a
-}
-
-function makeInt(a) {
-   parseInt('a', 10)
-}
-
-
-function preserveDecmal(n) {
-  
-}
